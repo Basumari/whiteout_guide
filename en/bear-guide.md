@@ -5,7 +5,7 @@ permalink: /en/bear-guide
 ---
 
 ## 🌍 Language Selection
-{% include language-switcher.html %}
+{% include lang-switcher.html %}
 
 ---
 
