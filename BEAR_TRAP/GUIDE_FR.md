@@ -1,4 +1,6 @@
-# Whiteout Survival: Guide de Ralliement pour la Chasse à l'Ours
+---
+title: "Whiteout Survival: Guide de Ralliement pour la Chasse à l'Ours"
+---
 
 ## 🌍 Sélection de la langue
 🇬🇧 [English](GUIDE_EN.md) | 🇩🇪 [Deutsch](GUIDE_DE.md) | 🇪🇸 [Español](GUIDE_ES.md) | 🇫🇷 [Français](GUIDE_FR.md) | 🇷🇺 [Русский](GUIDE_RU.md) | 🇸🇦 [العربية](GUIDE_AR.md)

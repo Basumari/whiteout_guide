@@ -1,4 +1,6 @@
-# وايت آوت سيرفايفل: دليل التجمع لصيد الدب
+---
+title: " وايت آوت سيرفايفل: دليل التجمع لصيد الد"
+---
 
 ## 🌍 اختيار اللغة
 🇬🇧 [English](GUIDE_EN.md) | 🇩🇪 [Deutsch](GUIDE_DE.md) | 🇪🇸 [Español](GUIDE_ES.md) | 🇫🇷 [Français](GUIDE_FR.md) | 🇷🇺 [Русский](GUIDE_RU.md) | 🇸🇦 [العربية](GUIDE_AR.md)

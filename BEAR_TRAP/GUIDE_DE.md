@@ -1,4 +1,6 @@
-# Whiteout Survival: Bärenjagd-Rallye-Guide
+---
+title: "Whiteout Survival: Bärenjagd-Rallye-Guide"
+---
 
 ## 🌍 Sprachauswahl
 🇬🇧 [English](GUIDE_EN.md) | 🇩🇪 [Deutsch](GUIDE_DE.md) | 🇪🇸 [Español](GUIDE_ES.md) | 🇫🇷 [Français](GUIDE_FR.md) | 🇷🇺 [Русский](GUIDE_RU.md) | 🇸🇦 [العربية](GUIDE_AR.md)

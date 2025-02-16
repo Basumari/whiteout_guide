@@ -1,4 +1,6 @@
-# Whiteout Survival: Guía de Rally de Caza del Oso
+---
+title: "Whiteout Survival: Guía de Rally de Caza del Oso"
+---
 
 ## 🌍 Selección de idioma
 🇬🇧 [English](GUIDE_EN.md) | 🇩🇪 [Deutsch](GUIDE_DE.md) | 🇪🇸 [Español](GUIDE_ES.md) | 🇫🇷 [Français](GUIDE_FR.md) | 🇷🇺 [Русский](GUIDE_RU.md) | 🇸🇦 [العربية](GUIDE_AR.md)
