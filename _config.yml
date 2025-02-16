@@ -1,12 +1,25 @@
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+
 relative_links:
   enabled: true
   collections: true
 
 remote_theme: jekyll/minima
+
 minima:
   skin: dark
-include:
+
+# Navigation nur für Bear Trap setzen
+header_pages:
   - GUIDE_EN.md
+
+# Bestimmte Dateien NICHT in die Navigation aufnehmen
+exclude:
+  - README.md
+  - GUIDE_AR.md
+  - GUIDE_DE.md
+  - GUIDE_ES.md
+  - GUIDE_FR.md
+  - GUIDE_RU.md
