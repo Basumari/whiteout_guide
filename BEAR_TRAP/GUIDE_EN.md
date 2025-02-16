@@ -9,7 +9,7 @@
 
 - **Rally Leaders**: Use your three strongest heroes with offensive skills.
 - **Rally Members**: Join multiple rallies using **Jessie**, **Jasser**, **Seo-yoon**, or **Jeronimo** as your lead hero (first hero slot) to boost overall damage. If this is not possible, do **not** use any heroes.
-- **Use Squad Presets**: Save your hero and troop configurations in squad presets to join and create rallies faster with fewer mistakes. (See preset guide //TODO add link)
+- **Use Squad Presets**: Save your hero and troop configurations in squad presets to join and create rallies faster with fewer mistakes. [See preset guide](https://outof.games/realms/whiteoutsurvival/guides/473-how-to-setup-troops-formations-in-whiteout-survival/)
 
 ---
 
