@@ -20,7 +20,8 @@ defaults:
       type: "pages"
     values:
       hide_title: true
-  
+title: ""
+
 
 # Bestimmte Dateien NICHT in die Navigation aufnehmen
 exclude:
