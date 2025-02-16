@@ -1,0 +1,14 @@
+<div style="text-align: center; margin-bottom: 20px;">
+    <!--<h2>🌍 Language Selection</h2>-->
+    <p>
+        {% assign page_path = page.url | replace_regex: '^/(en|de|es|fr|ru|ar)/', '/' %}
+        🇬🇧 <a href="/en{{ page_path }}">English</a> |
+        🇩🇪 <a href="/de{{ page_path }}">Deutsch</a> |
+        🇪🇸 <a href="/es{{ page_path }}">Español</a> |
+        🇫🇷 <a href="/fr{{ page_path }}">Français</a> |
+        🇷🇺 <a href="/ru{{ page_path }}">Русский</a> |
+        🇸🇦 <a href="/ar{{ page_path }}">العربية</a>
+      </p>
+  </div>
+  <hr>
+  
