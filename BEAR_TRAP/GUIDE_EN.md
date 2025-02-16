@@ -1,4 +1,6 @@
-# Whiteout Survival: Bear Hunt Rally Guide
+---
+title: "Whiteout Survival: Bear Hunt Rally Guide"
+---
 
 ## 🌍 Language Selection
 🇬🇧 [English](GUIDE_EN.md) | 🇩🇪 [Deutsch](GUIDE_DE.md) | 🇪🇸 [Español](GUIDE_ES.md) | 🇫🇷 [Français](GUIDE_FR.md) | 🇷🇺 [Русский](GUIDE_RU.md) | 🇸🇦 [العربية](GUIDE_AR.md)
